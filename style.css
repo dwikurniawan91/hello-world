@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(58, 223, 168);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 0;
+}
+header{
+    background-color: rgba(226, 10, 143, 0.6);
+}
+h1 {
+	color: white;
+	font-size: 28px;
+	text-align: center;
+    padding: 20px;
+}
+h2 {
+    font-size: 24px;
+   margin: 1px;
+}
+h3{
+    margin: .5px;
+    font-size: 15px;
+}
+.container {
+    width: 900;
+    margin: 1px;
+}
+
+#main-bio, #bioImg, #contact {
+    float: left;
+}
+
+.bioImg {
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+    circ
+}
+
+#main-bio {
+	width: 300px;
+	line-height: 150%;
+}
+
+#contact {
+	width: 30%;
+	line-height: 150%;
+}
+
+a {
+	color: rgb(29, 32, 173);
+}
